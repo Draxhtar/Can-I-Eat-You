@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//CAUTION! It's kinda buggy, enemy rigidbody still moves after dying
 public class LizardEnemy : MonoBehaviour
 {
     [Header("References")]
