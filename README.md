@@ -10,7 +10,7 @@ Animation method used for the player is inspired by the movement in the Hotline 
 *TopDownMovement.cs* script is slightly changed version of a Brackeys tutorial.
 
 
-#### What is special about it?
+### What is special about it?
 Torso of the player and Legs are animated seperately.
 
 **Torso**'s angle is set to rotate towards the **mouse cursor** by  code.   *RotateTowardsMouse.cs*
