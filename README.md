@@ -14,6 +14,7 @@ Animation method used for the player is inspired by the movement in the Hotline 
 Torso of the player and Legs are animated seperately.
 
 **Torso**'s angle is set to rotate towards the **mouse cursor** by  code.   *RotateTowardsMouse.cs*
+
 **Legs** are rotated according to **keyboard input** (wasd). 
  *RotateAccordingToMovement.cs*
  
