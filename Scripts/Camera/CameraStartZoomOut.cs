@@ -9,13 +9,7 @@ public class CameraStartZoomOut : MonoBehaviour
 
     void Start()
     {
-        //DOTween.To(() => _camera.Size, x => myFloat = x, 52, 1);
         _camera.DOOrthoSize(4.68f, 1f);
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    /* It's just to zoom out the camera at the start of the game, it's kinda cool */
 }
