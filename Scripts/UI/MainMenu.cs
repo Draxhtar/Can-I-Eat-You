@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class MainMenu : MonoBehaviour
 {
     [SerializeField] 
-    [Tooltip("The Level that will be loaded when pressed PLAY.")]
+    [Tooltip("Name of the Level that will be loaded when pressed PLAY.")]
     private string level1;
 
     public void PlayGame()
