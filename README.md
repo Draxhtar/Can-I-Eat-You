@@ -1,4 +1,4 @@
-# Can-I-Eat-You
+# Can I Eat You
 [Can I Eat You](https://draxhtar.itch.io/can-i-eat-you) Open Source Release
 
 The game was made for the **Brackeys Jam 2021.1** using **Unity**.
