@@ -2,7 +2,7 @@
 "Can I Eat You" Open Source Release
 
 The game was made for the **Brackeys Jam 2021.1** using **Unity**.
-So the source code might be a bit messy sometimes.
+So the source code might be a bit messy sometimes. https://draxhtar.itch.io/can-i-eat-you
 
 # Movement
 Animation method used for the player is inspired by the movement in the Hotline Miami.
