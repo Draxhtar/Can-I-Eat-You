@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This script uses the Brackeys tutorial as a base
 public class TopDownMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
