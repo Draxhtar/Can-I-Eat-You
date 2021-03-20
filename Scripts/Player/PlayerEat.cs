@@ -31,10 +31,12 @@ public class PlayerEat : MonoBehaviour
         {
             EatAttack();
         }
-        if (Input.GetKeyDown(KeyCode.J))
+        #region TestScreenShake
+        if (Input.GetKeyDown(KeyCode.J)) //This is only to test how the screenshake feels easily
         {
             CameraShaker.Instance.ShakeOnce(ssMagnitude, ssRoughness, ssFadeInTime, ssFadeOutTime);
         }
+        #endregion
         
     }
 
